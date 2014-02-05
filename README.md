@@ -14,6 +14,6 @@ Apologies for swearing, Steve's fault.
 
 QA + gets knowledge: Tom Chinery
 
-Lead Developer + Foul Language: Steve Butterworth
+Lead Developer + Foul Language: @stevebutterworth
 
 Jr Developer + laptop + ascii art: Anders Fisher
